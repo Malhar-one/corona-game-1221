@@ -1,1 +1,2 @@
-# corona-game-1221
+# p5.play-boilerplate
+Boiler plate for p5.play
